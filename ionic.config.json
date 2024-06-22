@@ -1,0 +1,8 @@
+{
+  "name": "Library",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "09ad52de"
+}
